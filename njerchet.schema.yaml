@@ -1,14 +1,17 @@
-﻿# Rime schema
+# Rime schema
 # encoding: utf-8
 
 schema:
   schema_id: njerchet
-  name: 爾切羅馬字
-  version: "2019.06.22"
+  name: 爾切羅馬字・改
+  version: "2019.09.05"
   author:
     - "叔寍 <coywjs@gmail.com>"
+    - "ksqsf <i@ksqsf.moe>"
   description: |
     以《切韵》音系爲基礎旳倂音方案, 碼長由2到8不等, 均碼約爲4。
+
+    元爲叔寍氏所製，ksqsf 氏增補以白話常用字之訓讀，以利日常之用。
   dependencies:
     - luna_pinyin
 

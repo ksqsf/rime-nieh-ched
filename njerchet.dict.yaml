@@ -1,14 +1,30 @@
 ﻿# encoding: utf-8
 # 爾切羅馬字
 # 碼表表氐由Poem提供, 由叔寍設計編碼方案並編碼
+# ksqsf 氏增添白話常用字之訓讀
 
 ---
 name: njerchet
-version: "2.0"
+version: "2.1"
 sort: by_weight
 use_preset_vocabulary: true
 ...
 
+# 自用訓讀、古今字等
+你	njer
+們	mujr
+嗎	myu
+卡	kha
+拿	nra
+啥	xa
+這	tjar
+的	tejr
+也	jek
+
+# 補闕
+間	krens
+
+# 以下元表
 蔢	ba
 婆	ba
 碆	ba
