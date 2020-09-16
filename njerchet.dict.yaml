@@ -1,4 +1,4 @@
-﻿# encoding: utf-8
+# encoding: utf-8
 # 爾切羅馬字
 # 碼表表氐由Poem提供, 由叔寍設計編碼方案並編碼
 # ksqsf 氏增添白話常用字之訓讀
@@ -25,9 +25,11 @@ use_preset_vocabulary: true
 間	kren
 啊	oa
 哪	nar
+搞	kawr
 
 # 補闕
 間	krens
+魂	xun
 
 # 以下元表
 蔢	ba
