@@ -12,16 +12,17 @@ use_preset_vocabulary: true
 
 # 自用訓讀、古今字等
 你	njer
-們	mujr
-嗎	myu
-卡	kha
+們	mun
+嗎	ma
+卡	krat
+卡	xrep
 拿	nra
 啥	xa
 這	tjar
 的	tejr
 也	jek
 哈	ha
-打	that
+打	tat
 間	kren
 啊	oa
 哪	nar
@@ -30,6 +31,8 @@ use_preset_vocabulary: true
 # 補闕
 間	krens
 魂	xun
+票  phiew
+票  phiews
 
 # 以下元表
 蔢	ba
@@ -17975,6 +17978,7 @@ use_preset_vocabulary: true
 尉	owt
 蔚	owt
 菀	owt
+郁	owt
 熨	owt
 欝	owt
 𩰪	owt
